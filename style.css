@@ -1,0 +1,21 @@
+body
+{
+    background-color:purple;
+    border-style:dotted;
+    border-width:14px;
+}
+
+#user_name
+{
+    margin-bottom:24px;
+}
+
+#answer
+{
+    margin-bottom:25px;
+}
+
+#check_btn
+{
+    margin-bottom:45px;
+}
